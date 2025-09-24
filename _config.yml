@@ -23,7 +23,7 @@ repository               : "owenjosse/owenjosse.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Owen_Josse.jpg"
+  avatar           : "Owen_Josse.jpeg"
   name             : "Josse Owen"
   pronouns         : # example: "she/her"  
   bio              : "Phd Sutdent in Probability"
