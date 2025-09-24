@@ -1,1 +1,93 @@
-
+{
+  "basics": {
+    "name": "Nicolas Corvol",
+    "email": "nicolas.corvol@eleves.enpc.fr",
+    "phone": "",
+    "website": "https://nicolascorvol.github.io",
+    "summary": "Currently in a pre-doctorate internship at CERMICS, Ecole Nationale des Ponts et Chaussées, working on operations research and optimization problems.",
+    "location": {
+      "address": "2 rue Paul Saunière",
+      "postalCode": "94410",
+      "city": "Maison Alfort",
+      "countryCode": "France",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "nicolascorvol",
+        "url": "https://github.com/nicolascorvol"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Nicolas Corvol",
+        "url": "https://www.linkedin.com/in/nicolas-corvol/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "CERMICS, Ecole Nationale des Ponts et Chaussées and Renault Group",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": "Pre-doctorate internship",
+      "highlights": []
+    },
+    {
+      "company": "Padam Mobility",
+      "position": "Operation Research Intern",
+      "website": "",
+      "startDate": "2024-02",
+      "endDate": "2024-08",
+      "summary": "Paris",
+      "highlights": []
+    },
+    {
+      "company": "Polytechnique Montreal, Scale AI",
+      "position": "Research Assistant",
+      "website": "",
+      "startDate": "2023-07",
+      "endDate": "2023-12",
+      "summary": "Worked in Thibault Vidal's team",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Conservatoire National des Arts et Métiers",
+      "area": "Master's degree \"Master Parisien de Recherche Opérationnelle\"",
+      "studyType": "Master's degree",
+      "startDate": "2024",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Ecole Nationale des Ponts et Chaussées",
+      "area": "Engineering degree",
+      "studyType": "Engineering degree",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Lycée Charlemagne",
+      "area": "Scientific preparatory classes (MPSI-MP*)",
+      "studyType": "Preparatory classes",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [],
+  "teaching": [],
+  "portfolio": []
+}
