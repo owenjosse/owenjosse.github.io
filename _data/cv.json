@@ -74,7 +74,7 @@
       "startDate": "2024",
       "endDate": "2025",
       "gpa": null,
-      "courses": [Percolations, Random Graphs, Branching Processes and Structured Populations...]
+      "courses": ["Percolations, Random Graphs, Branching Processes and Structured Populations..."]
     },
     {
       "institution": "CentraleSupelec",
@@ -95,10 +95,11 @@
     }
   ],
   "skills": ["Python", "R", "SQL", "GIT", "Matlab"],
-  "languages": [French (native), English (C1)],
+  "languages": ["French (native), English (C1)"],
   "interests": [],
   "references": [],
-  "publications": [
+}
+  publications: [
     {
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
@@ -183,4 +184,4 @@
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
-}
+
