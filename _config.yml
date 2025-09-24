@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Owen Josse"
+locale: "en-US"
+theme: "jekyll-theme-primer"
+title: "Owen Josse"
 title_separator          : "-"
 name                     : &name "Josse"
 description              : &description "Phd Sutdent in Probability"   # Update this with a general description of your site, this is the default if not overridden by a page
