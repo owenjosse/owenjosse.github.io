@@ -92,33 +92,4 @@
     }
   ],
   "skills": ["Python", "R", "SQL", "GIT", "Matlab"],
-  "languages": ["French (native)", "English (C1)"],
-  "interests": [],
-  "references": [],
-  "publications": [ ],
-  "presentations": [],
-  "teaching": [
-    {
-      "course": "Teaching Assistant (TD) in the course 'Méthodogie Mathématique'",
-      "institution": "University Gustave Eiffel",
-      "date": "09-2025 to 02-2026",
-      "role": "L1 course",
-      "description": ""
-    },
-    {
-      "course": "Teaching Assistant (TD) in the course 'Statistique et Probabilité'",
-      "institution": "University Gustave Eiffel",
-      "date": "09-2025 to 02-2026",
-      "role": "L1 course",
-      "description": ""
-    },    
-    {
-      "course": "Teaching Assistant in the course 'Convergence Integration and Probability ",
-      "institution": "Contralesuepelec",
-      "date": "09-2022 to 02-2023",
-      "role": "L3 course",
-      "description": ""
-    },
-    
-  ],
   "portfolio": []
