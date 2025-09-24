@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Owen Josse",
+    "email": ["owen.josse@enpc.fr","owenjosse@orange.fr"],
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://owenjosse.github.io",
+    "summary": "Currently in PhD at LAMA, Université Gustave Eiffel, and CERMICS, Ecole des Ponts et Chaussés working on graphons",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,54 +14,88 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "academicpages",
         "url": "https://github.com/academicpages"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "CERMICS, Ecole Nationale des Ponts et Chaussées",
+      "location": "Champs-sur-Marne, France",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-05",
+      "endDate": "2025-10",
+      "summary": "Pre-doctorate internship",
+      "highlights": ["Supervisors : Jean-François Delmas (CERMICS), Pierre-André Zitt (LAMA)",
+        "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "
+]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Departement of Mathematics, Mahindra University",
+      "location": "Hyderabad, India",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2024-02",
+      "endDate": "2024-08",
+      "summary": "Research Internship",
+      "highlights": ["Supervisor : Sanjukta Das",
+        "Weak solutions of fractional SPDEs for stochastic optimization problems "
+]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Société des Grands Projets (formerly Société du Grand Paris)",
+      "location": "Saint-Denis, France",
+      "position": "Innovation project manangment and environmental expertise",
+      "website": "",
+      "startDate": "2023-09",
+      "endDate": "2024-02",
+      "highlights": [Engineering internship in the public company responsible for the construction of metro networks in Paris]
     }
   ],
-  "skills": [],
-  "languages": [],
+  "education": [
+    {
+      "institution": "Université Gustave Eiffel, LAMA and Ecole des Ponts et Chaussés, CERMICS",
+      "area": "Ph.D in Probability,
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": "2028",
+      "gpa": null,
+      "Subject":["Supervisors : Pierre-André Zitt (LAMA),Jean-François Delmas (CERMICS) ",
+        "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "
+]
+    },
+    {
+      "institution": "Université Paris-Saclay",
+      "area": "M.S. Mathématiques de l'aléatoire (Probability and Statistics)",
+      "studyType": "M.S.",
+      "startDate": "2024",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": [Percolations, Random Graphs, Branching Processes and Structured Populations...]
+    },
+    {
+      "institution": "CentraleSupelec",
+      "area": "Applied Mathematics",
+      "studyType": "Engineering School",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Lycée Pierre de Ferlat",
+      "area": "Scientific preparatory class",
+      "studyType": "MPSI-MP*",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null,
+    }
+  ],
+  "skills": ["Python", "R", "SQL", "GIT", "Matlab"],
+  "languages": [French (native), English (C1)],
   "interests": [],
   "references": [],
   "publications": [
