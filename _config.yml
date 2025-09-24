@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-theme: "jekyll-theme-primer"
+site_theme               : "default"
 title: "Owen Josse"
 title_separator          : "-"
 name                     : &name "Josse"
