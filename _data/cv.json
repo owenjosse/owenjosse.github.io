@@ -30,14 +30,17 @@
       "highlights": ["Supervisors : Jean-François Delmas (CERMICS), Pierre-André Zitt (LAMA)",
         "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "]
     },
-    {
-      "company": "Padam Mobility",
-      "position": "Operation Research Intern",
+{
+      "company": "Departement of Mathematics, Mahindra University",
+      "location": "Hyderabad, India",
+      "position": "Research Intern",
       "website": "",
       "startDate": "2024-02",
       "endDate": "2024-08",
-      "summary": "Paris",
-      "highlights": []
+      "summary": "Research Internship",
+      "highlights": ["Supervisor : Sanjukta Das",
+        "Weak solutions of fractional SPDEs for stochastic optimization problems "
+]
     },
     {
       "company": "Polytechnique Montreal, Scale AI",
