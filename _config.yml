@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+theme : jekyll-theme-primer
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Owen Josse"
 title_separator          : "-"
