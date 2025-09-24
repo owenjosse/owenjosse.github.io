@@ -43,49 +43,82 @@
 ]
     },
     {
-      "company": "Polytechnique Montreal, Scale AI",
-      "position": "Research Assistant",
+      "company": "Société des Grands Projets (formerly Société du Grand Paris)",
+      "location": "Saint-Denis, France",
+      "position": "Innovation project manangment and environmental expertise",
       "website": "",
-      "startDate": "2023-07",
-      "endDate": "2023-12",
-      "summary": "Worked in Thibault Vidal's team",
-      "highlights": []
+      "startDate": "2023-09",
+      "endDate": "2024-02",
+      "highlights": ["Engineering internship in the public company responsible for the construction of metro networks in Paris"]
     }
   ],
   "education": [
     {
-      "institution": "Conservatoire National des Arts et Métiers",
-      "area": "Master's degree \"Master Parisien de Recherche Opérationnelle\"",
-      "studyType": "Master's degree",
+      "institution": "Université Gustave Eiffel, LAMA and Ecole des Ponts et Chaussés, CERMICS",
+      "area": "Ph.D in Probability",
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": "2028",
+      "gpa": null,
+      "Subject":["Supervisors : Pierre-André Zitt (LAMA),Jean-François Delmas (CERMICS) ",
+        "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "
+]
+    },
+    {
+      "institution": "Université Paris-Saclay",
+      "area": "M.S. Mathématiques de l'aléatoire (Probability and Statistics)",
+      "studyType": "M.S.",
       "startDate": "2024",
       "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": ["Percolations, Random Graphs, Branching Processes and Structured Populations..."]
     },
     {
-      "institution": "Ecole Nationale des Ponts et Chaussées",
-      "area": "Engineering degree",
-      "studyType": "Engineering degree",
+      "institution": "CentraleSupelec",
+      "area": "Applied Mathematics",
+      "studyType": "Engineering School",
       "startDate": "2021",
       "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "Project": ["Research project : construction of random measurement in correlated random environment with Alexandre Richard, MICS","Research Program : Real Trees and Fractional Brownian Motion with Erick Herbin, MICS"]
     },
     {
-      "institution": "Lycée Charlemagne",
-      "area": "Scientific preparatory classes (MPSI-MP*)",
-      "studyType": "Preparatory classes",
+      "institution": "Lycée Pierre de Ferlat",
+      "area": "Scientific preparatory class",
+      "studyType": "MPSI-MP*",
       "startDate": "2019",
       "endDate": "2021",
       "gpa": null,
-      "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": ["Python", "R", "SQL", "GIT", "Matlab"],
+  "languages": ["French (native)", "English (C1)"],
   "interests": [],
   "references": [],
-  "publications": [],
-  "teaching": [],
+  "publications": [ ],
+  "presentations": [],
+  "teaching": [
+    {
+      "course": "Teaching Assistant (TD) in the course 'Méthodogie Mathématique'",
+      "institution": "University Gustave Eiffel",
+      "date": "09-2025 to 02-2026",
+      "role": "L1 course",
+      "description": ""
+    },
+    {
+      "course": "Teaching Assistant (TD) in the course 'Statistique et Probabilité'",
+      "institution": "University Gustave Eiffel",
+      "date": "09-2025 to 02-2026",
+      "role": "L1 course",
+      "description": ""
+    },    
+    {
+      "course": "Teaching Assistant in the course 'Convergence Integration and Probability ",
+      "institution": "Contralesuepelec",
+      "date": "09-2022 to 02-2023",
+      "role": "L3 course",
+      "description": ""
+    },
+    
+  ],
   "portfolio": []
-}
