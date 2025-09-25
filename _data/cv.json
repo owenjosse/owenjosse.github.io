@@ -29,26 +29,5 @@
       "summary": "Pre-doctorate internship",
       "highlights": ["Supervisors : Jean-François Delmas (CERMICS), Pierre-André Zitt (LAMA)",
         "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "]
-    },
-{
-      "company": "Departement of Mathematics, Mahindra University",
-      "location": "Hyderabad, India",
-      "position": "Research Intern",
-      "website": "",
-      "startDate": "2024-02",
-      "endDate": "2024-08",
-      "summary": "Research Internship",
-      "highlights": ["Supervisor : Sanjukta Das",
-        "Weak solutions of fractional SPDEs for stochastic optimization problems "
-]
-    },
-    {
-      "company": "Société des Grands Projets (formerly Société du Grand Paris)",
-      "location": "Saint-Denis, France",
-      "position": "Innovation project manangment and environmental expertise",
-      "website": "",
-      "startDate": "2023-09",
-      "endDate": "2024-02",
-      "highlights": ["Engineering internship in the public company responsible for the construction of metro networks in Paris"]
     }
   ]
