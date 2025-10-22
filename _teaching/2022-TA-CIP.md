@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (L3)"
 permalink: /teaching/2022-TA-CIP
 venue: "CentraleSupélec, Mathématiques"
-date: 09-2022 to 02-2023
+date: 09-2022
 location: "Gif-sur-Yvette, France"
 ---
 
