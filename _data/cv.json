@@ -1,152 +1,148 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Owen Josse",
+    "email": [
+      "owen.josse@enpc.fr"
+    ],
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://owenjosse.github.io",
+    "summary": "Currently in PhD at LAMA, Université Gustave Eiffel, and CERMICS, Ecole des Ponts et Chaussés working on graphons",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Champs-sur-Marne, France",
+      "countryCode": "FR",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "owenjosse",
+        "url": "https://github.com/owenjosse"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "CERMICS, Ecole Nationale des Ponts et Chaussées",
+      "location": "Champs-sur-Marne, France",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2025-05",
+      "endDate": "2025-10",
+      "summary": "Pre-doctorate internship",
+      "highlights": [
+        "Supervisors : Jean-François Delmas (CERMICS), Pierre-André Zitt (LAMA)",
+        "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "
+      ]
+    },
+    {
+      "company": "Departement of Mathematics, Mahindra University",
+      "location": "Hyderabad, India",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2024-02",
+      "endDate": "2024-08",
+      "summary": "Research Internship",
+      "highlights": [
+        "Supervisor : Sanjukta Das",
+        "Weak solutions of fractional SPDEs for stochastic optimization problems "
+      ]
+    },
+    {
+      "company": "Société des Grands Projets (formerly Société du Grand Paris)",
+      "location": "Saint-Denis, France",
+      "position": "Innovation project management and environmental expertise",
+      "website": "",
+      "startDate": "2023-09",
+      "endDate": "2024-02",
+      "highlights": [
+        "Engineering internship in the public company responsible for the construction of metro networks in Paris"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Université Gustave Eiffel, LAMA and Ecole des Ponts et Chaussés, CERMICS",
+      "area": "Ph.D in Probability",
+      "studyType": "PhD",
+      "startDate": "2025",
+      "endDate": "2028",
       "gpa": null,
-      "courses": []
+      "highlights": [
+        "Supervisors : Pierre-André Zitt (LAMA),Jean-François Delmas (CERMICS) ",
+        "Co-evolution of Dynamic Graphs and Graphons : graphon-valued processes "
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Université Paris-Saclay",
+      "area": "M.S. Mathématiques de l'aléatoire (Probability and Statistics)",
+      "studyType": "M.S.",
+      "startDate": "2024",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Percolations, Random Graphs, Branching Processes and Structured Populations..."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "CentraleSupelec",
+      "area": "Applied Mathematics",
+      "studyType": "Engineering School",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
-      "courses": []
+      "highlights": [
+        "Research project : construction of random measurement in correlated random environment with Alexandre Richard, MICS",
+        "Research Program : Real Trees and Fractional Brownian Motion with Erick Herbin, MICS"
+      ]
+    },
+    {
+      "institution": "Lycée Pierre de Fermat",
+      "area": "Scientific preparatory class",
+      "studyType": "MPSI-MP*",
+      "startDate": "2019",
+      "endDate": "2021",
+      "gpa": null
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "GIT",
+    "Matlab"
+  ],
+  "languages": [
+    "French (native)",
+    "English (C1)"
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Teaching Assistant (TD) in the course 'Méthodogie Mathématique'",
+      "institution": "University Gustave Eiffel",
+      "date": "09-2025 to 02-2026",
+      "role": "L1 course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Teaching Assistant (TD) in the course 'Statistique et Probabilité'",
+      "institution": "University Gustave Eiffel",
+      "date": "09-2025 to 02-2026",
+      "role": "L1 course",
+      "description": ""
+    },
+    {
+      "course": "Teaching Assistant in the course 'Convergence Integration and Probability ",
+      "institution": "CentraleSupelec",
+      "date": "09-2022 to 02-2023",
+      "role": "L3 course",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
