@@ -12,7 +12,7 @@ I am currently a PhD student in Mathematics at Université Gustave Eiffel, [LAMA
 Before that, I got a Master Degree in Probability from Université Paris Saclay ([Master de l'Aléatoire](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/mathematiques-de-laleatoire/)) and graduated from [CentraleSupelec](https://www.centralesupelec.fr/en) with a Major in Applied Mathematics.
 
 PhD Project and Research Interests
-======
+----
 
 * Graphons and scaling limits of random graphs
 * Dynamic randoms graphs
