@@ -37,11 +37,11 @@ Topic: Co-evolution of Dynamic Graphs and Graphon-valued processes
 
 **M.S. (M2) Mathématiques de l’aléatoire (Probability and Statistics)**  
 Université Paris-Saclay, 2024–2025  
-Main topics:  random graphs, Percolation, Branching processes and structured populations, Inference on graphs
+Main topics:  random graphs, Percolation, Branching processes, Inference on graphs
 
 **Engineering Degree in Applied Mathematics**  
 CentraleSupélec, 2021–2025
-Cursus in Mathematics and Applied Mathematics including : EDPS, SLE, Machine Learning, Statistics, Harmonic Analysis, limit theorems in Probability, Stochastic Processes, Optimization, Hamilton-Jacobi equations.
+Cursus in Mathematics and Applied Mathematics including : EDPS, SLE, ML, Statistics, Harmonic Analysis, Optimization, Hamilton-Jacobi equations.
 - Research project: Construction of polymer measures in correlated random environments (Alexandre Richard, MICS)  
 - Research program: Real Trees and Fractional Brownian Motion (Erick Herbin, MICS)  
 
@@ -120,7 +120,7 @@ English (C1)
 - **Pierre-André Zitt**, Professor, LAMA — pierre-andre.zitt@u-pem.fr
 - **Alexandre Richard**, Maître de Conférences, CentraleSupélec — alexandre.richard@centralesupelec.fr
 
-## Professional Experience
+## Other Experience
 
 **Innovation Project Management and Environmental Expertise Intern**  
 Société des Grands Projets (formerly Société du Grand Paris), Saint-Denis, France — Sept 2023 – Feb 2024  
