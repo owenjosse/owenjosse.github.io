@@ -27,5 +27,6 @@ LAMA, Université Gustave Eiffel 5 boulevard Descartes Cité Descartes – Champ
 ### Email :
 
 [first name].[last name]@enpc.fr
+
 [first name].[last name]@univ-eiffel.fr
 
