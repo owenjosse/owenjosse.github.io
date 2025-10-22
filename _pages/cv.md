@@ -62,17 +62,20 @@ Project: Co-evolution of dynamic graphs and graphons, stochastic graphon-valued 
 **Last year research Project – CentraleSupélec (MICS Laboratory)**  
 Gif-sur-Yvette, France — 2024 – 2025  
 Supervisor: [Alexandre Richard](https://arichard.perso.math.cnrs.fr/#supervision)
+
 Topic: Construction of polymer measures in correlated random environments
 
 
 **Research Intern – Department of Mathematics, Mahindra University**  
 Hyderabad, India — Feb 2024 – Aug 2024  
 Supervisor: [Sanjukta Das](https://www.mahindrauniversity.edu.in/faculty/dr-sanjukta-das/)
+
 Project: Weak solutions and optimal control of fractional stochastic differential equations; applications to financial models
 
 **Research Program – CentraleSupélec (MICS Laboratory)**  
 Gif-sur-Yvette, France — 2021 – 2023  
-Supervisor: [Erick Herbin](https://erick.perso.math.cnrs.fr/)  
+Supervisor: [Erick Herbin](https://erick.perso.math.cnrs.fr/)
+
 Topic: Discovering properties of fractional Brownian motion, local times, Galton–Watson trees, and exploration processes  
 
 
