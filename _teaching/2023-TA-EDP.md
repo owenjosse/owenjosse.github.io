@@ -8,8 +8,8 @@ date: 01-02-2023
 location: "Gif-sur-Yvette, France"
 ---
 
-During the secon semester of 2022-2023 (January to April), I served as a teaching assistant in PDE courses at CentraleSupélec. 
+During the second semester of 2022-2023 (January to April), I served as a teaching assistant in PDE courses at CentraleSupélec. 
 
 
-The course covered topics such as EDO, Classification of PDE and distribution. My responsibilities included leading weekly tutorial sessions for students with deficit in mathematics.
+The course covered topics such as ODE, Classification of PDE and distribution. My responsibilities included leading weekly tutorial sessions for students with difficulties in mathematics.
 

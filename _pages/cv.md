@@ -41,7 +41,7 @@ Main topics:  random graphs, Percolation, Branching processes, Inference on grap
 
 **Engineering Degree in Applied Mathematics**  
 CentraleSupélec, 2021–2025
-Cursus in Mathematics and Applied Mathematics including : EDPS, SLE, ML, Statistics, Harmonic Analysis, Optimization, Hamilton-Jacobi equations.
+Cursus in Mathematics and Applied Mathematics including : SPDE, SLE, ML, Statistics, Harmonic Analysis, Optimization, Hamilton-Jacobi equations.
 - Research project: Construction of polymer measures in correlated random environments (Alexandre Richard, MICS)  
 - Research program: Real Trees and Fractional Brownian Motion (Erick Herbin, MICS)  
 
