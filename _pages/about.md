@@ -18,3 +18,11 @@ PhD Project and Research Interests
 * Dynamic randoms graphs
 * Markov Processes and Martingales Problems
 
+
+
+# Addresses : 
+
+CERMICS, École Nationale des Ponts et Chaussées 6 et 8, av. Blaise Pascal Cité Descartes – Champs-sur-Marne 77455 Marne-la-Vallée Cedex 2 France, Office: B211
+
+LAMA, Université Gustave Eiffel 5 boulevard Descartes Cité Descartes – Champs-sur-Marne 77454 Marne-la-Vallée Cedex 2 France, Office: 4B070
+

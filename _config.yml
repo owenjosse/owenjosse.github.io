@@ -24,9 +24,9 @@ repository               : "owenjosse/owenjosse.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Josse"
+  name             : "Owen Josse"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Probability at LAMA and CERMICS"
+  bio              : "PhD Student"
   location         : "Marnes la Vallée, France"
   employer         : "LAMA and CERMICS"
   uri              : # URL
