@@ -24,7 +24,7 @@ GitHub: https://github.com/owenjosse
 ## Summary
 
 Currently pursuing a Ph.D. in Probability at LAMA (Université Gustave Eiffel) and CERMICS (École des Ponts et Chaussées), working on graphon-valued stochastic processes.  
-Research background in stochastic processes on graphs, fractional SPDEs, and random measures in correlated environments.  
+Research background in stochastic processes on graphs, fractional SPDEs, and random polymers in correlated environments.  
 
 ---
 
@@ -35,13 +35,14 @@ Université Gustave Eiffel (LAMA) and École des Ponts (CERMICS), 2025–2028
 Supervisors: Pierre-André Zitt (LAMA), Jean-François Delmas (CERMICS)  
 Topic: Co-evolution of Dynamic Graphs and Graphon-valued processes  
 
-**M.S. Mathématiques de l’aléatoire (Probability and Statistics)**  
+**M.S. (M2) Mathématiques de l’aléatoire (Probability and Statistics)**  
 Université Paris-Saclay, 2024–2025  
-Main topics: Percolation, random graphs, branching processes, structured populations, stochastic modeling  
+Main topics:  random graphs, Percolation, Branching processes and structured populations, Inference on graphs
 
 **Engineering Degree in Applied Mathematics**  
-CentraleSupélec, 2021–2025  
-- Research project: Construction of random measurements in correlated random environments (Alexandre Richard, MICS)  
+CentraleSupélec, 2021–2025
+Cursus in Mathematics and Applied Mathematics including : EDPS, SLE, Machine Learning, Statistics, Harmonic Analysis, limit theorems in Probability, Stochastic Processes, Optimization, Hamilton-Jacobi equations.
+- Research project: Construction of polymer measures in correlated random environments (Alexandre Richard, MICS)  
 - Research program: Real Trees and Fractional Brownian Motion (Erick Herbin, MICS)  
 
 **Scientific Preparatory Class (MPSI–MP\*)**  
@@ -58,62 +59,50 @@ Pre-doctorate research internship
 Supervisors: Jean-François Delmas (CERMICS), Pierre-André Zitt (LAMA)  
 Project: Co-evolution of dynamic graphs and graphons, stochastic graphon-valued processes  
 
+**Last year research Project – CentraleSupélec (MICS Laboratory)**  
+Gif-sur-Yvette, France — 2024 – 2025  
+Supervisor: [Alexandre Richard](https://arichard.perso.math.cnrs.fr/#supervision)
+Topic: Construction of polymer measures in correlated random environments
+
+
 **Research Intern – Department of Mathematics, Mahindra University**  
 Hyderabad, India — Feb 2024 – Aug 2024  
-Supervisor: Sanjukta Das  
-Project: Weak solutions and controllability of fractional stochastic differential equations with delay and impulses; applications to financial models  
+Supervisor: [Sanjukta Das](https://www.mahindrauniversity.edu.in/faculty/dr-sanjukta-das/)
+Project: Weak solutions and optimal control of fractional stochastic differential equations; applications to financial models
 
 **Research Program – CentraleSupélec (MICS Laboratory)**  
 Gif-sur-Yvette, France — 2021 – 2023  
-Supervisor: Prof. Erick Herbin  
-Topic: Excursions of fractional Brownian motion, local times, Galton–Watson trees, and exploration processes  
+Supervisor: [Erick Herbin](https://erick.perso.math.cnrs.fr/)  
+Topic: Discovering properties of fractional Brownian motion, local times, Galton–Watson trees, and exploration processes  
 
-**Research Project – CentraleSupélec (MICS Laboratory)**  
-Gif-sur-Yvette, France — 2024 – 2025  
-Supervisor: Alexandre Richard  
-Topic: Construction of polymer measures in correlated random environments  
 
 ---
+## Publications
 
-## Professional Experience
-
-**Innovation Project Management and Environmental Expertise Intern**  
-Société des Grands Projets (formerly Société du Grand Paris), Saint-Denis, France — Sept 2023 – Feb 2024  
-- Worked within the Environmental Strategy and Innovation Directorate (SEI)  
-- Managed innovation projects, integrated environmental criteria into procurement strategies  
-- Contributed to the setup of an accelerator for innovative industrial sectors  
-
-**Teaching Assistant – Convergence, Integration and Probability**  
-CentraleSupélec, Gif-sur-Yvette, France — Sept 2022 – Feb 2023  
-Level: L3 (Undergraduate)  
-Tutoring and guidance for students from parallel admissions in measure theory and PDE fundamentals  
-
-**Operator Internship**  
-Vinci Construction, Toulouse, France — June 2022  
-Field experience on-site with a construction team on a formwork project  
-
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+---
+## Talks & Presentations
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
 ---
 
 ## Teaching
 
-**Teaching Assistant (TD) – Méthodologie Mathématique**  
-Université Gustave Eiffel — Sept 2025 – Feb 2026  
-Level: L1  
-
-**Teaching Assistant (TD) – Statistique et Probabilité**  
-Université Gustave Eiffel — Sept 2025 – Feb 2026  
-Level: L1  
-
-**Teaching Assistant – Convergence, Integration and Probability**  
-CentraleSupélec — Sept 2022 – Feb 2023  
-Level: L3  
-
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ---
 
 ## Skills
 
 Programming: Python, R, SQL, Git, Matlab  
-Soft skills: Creativity, autonomy, teamwork, organization, open-mindedness  
+Soft skills: Creativity, autonomy, teamwork, organization, open-mindedness
 
 ---
 
@@ -124,42 +113,34 @@ English (C1)
 
 ---
 
-## Interests
-
-Classical music: violinist in the Saclay Campus Orchestra  
-Volunteering:  
-- PubliCS (association promoting public service careers at CentraleSupélec)  
-- Association des Résidents (event organization and coordination on campus)  
-Sports: swimming  
-
----
 
 ## References
 
-- **Alexandre Richard**, Maître de Conférences, CentraleSupélec — alexandre.richard@centralesupelec.fr  
-- **Erick Herbin**, Professor, Director of MICS, CentraleSupélec — erick.herbin@centralesupelec.fr  
-- **Sanjukta Das**, Professor, Mahindra University — sanjukta.das@mahindrauniversity.edu.in  
+- **Jean-François Delmas**, Professor, CERMICS — delmas@cermics.enpc.fr
+- **Pierre-André Zitt**, Professor, LAMA — pierre-andre.zitt@u-pem.fr
+- **Alexandre Richard**, Maître de Conférences, CentraleSupélec — alexandre.richard@centralesupelec.fr
+
+## Professional Experience
+
+**Innovation Project Management and Environmental Expertise Intern**  
+Société des Grands Projets (formerly Société du Grand Paris), Saint-Denis, France — Sept 2023 – Feb 2024  
+- Worked within the Environmental Strategy and Innovation Directorate (SEI)  
+- Managed innovation projects, integrated environmental criteria into procurement strategies  
+- Contributed to the setup of an accelerator for innovative industrial sectors  
+
+**Operator Internship**  
+Vinci Construction, Toulouse, France — June 2022  
+Field experience on-site with a construction team on a formwork project  
+
+---
+## Interests
+
+- Classical music: violin and singing 
+- Sports: swimming 
+- PubliCS (association promoting public service careers at CentraleSupélec)  
 
 
 
 
+---
 
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
